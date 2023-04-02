@@ -1,0 +1,1 @@
+SELECT * FROM Students Where City NOT LIKE '(a|c|f)%';
